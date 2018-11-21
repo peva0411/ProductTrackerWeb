@@ -1,0 +1,12 @@
+C:\Projects\ProductTrackerWeb\ProjectTracker\bin\Debug\netcoreapp2.1\ProductTracker.Web.deps.json
+C:\Projects\ProductTrackerWeb\ProjectTracker\bin\Debug\netcoreapp2.1\ProductTracker.Web.runtimeconfig.json
+C:\Projects\ProductTrackerWeb\ProjectTracker\bin\Debug\netcoreapp2.1\ProductTracker.Web.runtimeconfig.dev.json
+C:\Projects\ProductTrackerWeb\ProjectTracker\bin\Debug\netcoreapp2.1\ProductTracker.Web.dll
+C:\Projects\ProductTrackerWeb\ProjectTracker\bin\Debug\netcoreapp2.1\ProductTracker.Web.pdb
+C:\Projects\ProductTrackerWeb\ProjectTracker\obj\Debug\netcoreapp2.1\ProductTracker.Web.csprojResolveAssemblyReference.cache
+C:\Projects\ProductTrackerWeb\ProjectTracker\obj\Debug\netcoreapp2.1\ProductTracker.Web.csproj.CoreCompileInputs.cache
+C:\Projects\ProductTrackerWeb\ProjectTracker\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Projects\ProductTrackerWeb\ProjectTracker\obj\Debug\netcoreapp2.1\ProductTracker.Web.AssemblyInfoInputs.cache
+C:\Projects\ProductTrackerWeb\ProjectTracker\obj\Debug\netcoreapp2.1\ProductTracker.Web.AssemblyInfo.cs
+C:\Projects\ProductTrackerWeb\ProjectTracker\obj\Debug\netcoreapp2.1\ProductTracker.Web.dll
+C:\Projects\ProductTrackerWeb\ProjectTracker\obj\Debug\netcoreapp2.1\ProductTracker.Web.pdb
